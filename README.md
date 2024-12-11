@@ -1,2 +1,2 @@
-# InClasActivity3
+
 Smiley
